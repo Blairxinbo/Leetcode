@@ -1,4 +1,4 @@
-class Solution {
+class Q_001 {
     public int[] twoSum(int[] nums, int target) {
         int sums = 0;
         
