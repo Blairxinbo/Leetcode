@@ -18,3 +18,17 @@ Q_007. Reverse Integer
 Q_008. String to Integer(atoi)   
 
 Q_009. Palindrome Number
+
+Q_010. 
+
+Q_011. 
+
+Q_012.
+
+Q_013.
+
+Q_014.
+
+Q_015.
+
+Q_016.
