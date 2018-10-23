@@ -1,10 +1,12 @@
 class Q_031 {
     public void nextPermutation(int[] nums) {
         int i = nums.length-2;
+        //find the first smallest element from the end of lists
         while(i >= 0 && nums[i+1] <= nums[i]) {
             i--;
         }
 
+        //find the first element which is smaller than i, swap them
         if(i >= 0) {
             int j = nums.length-1;
             while(j >= 0 && nums[j] <= nums[i]) {
